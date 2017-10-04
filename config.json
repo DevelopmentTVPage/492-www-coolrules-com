@@ -1,0 +1,15 @@
+{
+    "title": "Pass plz",
+    "baseURL": "https:\/\/www.coolrules.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758397",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "coolrules.com"
+    }
+}
